@@ -17,17 +17,6 @@ import { Mission } from "src/models/Mission";
 
 export const missions: Mission[] = [
   {
-    id: "abc123doeraeme",
-    title: "Deploy a NodeJS App with a Firestore Database",
-    technologies: ['cloud_run', 'firestore', 'cloud_storage'],
-    learningResources: [
-      {
-        title: "Getting started with Node.js",
-        link: 'https://cloud.google.com/nodejs/getting-started'
-      },
-    ],
-  },
-  {
     id: "Sb8XWrxLMykaBU7oZEMH",
     title: "Deploy a NodeJS App with a Firestore Database",
     technologies: ['cloud_run', 'firestore', 'cloud_storage'],
